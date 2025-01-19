@@ -2,9 +2,9 @@
 
 ## Настройка
 
-**git config --global user.name "name"** *имя пользователя*
+`git config --global user.name "name"`  *имя пользователя*
 
-**git config --global user.email "эл. почта"** *электронная почта*
+`git config --global user.email "эл. почта"`  *электронная почта*
 
 Проверить, что настройки сохранились можно при помощи команды:
 
